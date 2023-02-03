@@ -1,3 +1,6 @@
-print("hello")
+
 
 print("f**k")
+
+print("hello world")
+
